@@ -1,3 +1,15 @@
+# morrison.interview.front-end
+
+請透過 `npm ci`, `npm start` 啟動查看答案
+
+---
+
+**多選清單** 由於沒詳細 SPEC，因此目前自定義部分 SPEC
+
+按下 SHIFT 的多選範圍為：前一個單選的 Checkbox 到目前按下 Shift 點擊的 Checkbox
+
+賦值行為：以目前按下 SHIFT 點下 Checkbox 的狀態變更為主，如果為 true，則該區勾選，為 false，則該區取消選取
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
